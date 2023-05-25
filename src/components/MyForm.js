@@ -52,7 +52,7 @@ const MyForm = ({user}) => {
                     <option value="user">Usuário</option>
                     <option value="editor">Editor</option>
                     <option value="admin">Administrador</option>
-                    <option value="admin">Programador</option>
+                    <option value="dev">Programador</option>
                 </select>
             </label>
             <input type="submit" value="Enviar" />
